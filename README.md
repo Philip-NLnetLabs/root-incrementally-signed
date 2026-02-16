@@ -9,7 +9,8 @@ Check out the dnst sources with
 ```
 git clone https://github.com/NLnetLabs/dnst.git
 ```
-Check out the branch signer-incremental-faketime:
+Check out the branch signer-incremental-faketime (currently commit
+c4224b3256895018c27f8d602bb5805ae7dd58ae):
 ```
 cd dnst
 git checkout signer-incremental-faketime
